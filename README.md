@@ -13,7 +13,19 @@ The main idea behind the Naive Bayes classifier is to use Bayes’ Theorem to cl
   - Naïve Bayes Algorithm is used in spam filtration, Sentimental analysis, classifying articles and many more.
 
 # About the dataset 
+Link: https://www.kaggle.com/datasets/nhatnguyenhoangbao/breast-cancer
 This file appears to contain breast cancer diagnostic data. It includes 569 rows and 32 columns, where each row represents a tumor sample with various measured features.
 <img width="1844" height="506" alt="{9C02DB4B-6B14-40E1-B6D7-6DF2C2F7567C}" src="https://github.com/user-attachments/assets/447f6668-20b7-4e66-9359-5a8442a8f505" />
+
+The 32 features are:
+  - Serial Number (The number of patients)
+  - Continious variables: Mean of many features (Radius, Texture, Perimeter, Area, Smoothness, Compactness,...)
+  - Categorical variable: Output (Benign/Malignant)
+
+Dataset Overview
+
+  - The dataset contains no missing values (all columns have 569 non-null entries).
+  - The features are continuous numerical values.
+  - The target variable is binary (Benign (B)/Malignant (M)).
 
 
