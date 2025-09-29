@@ -20,7 +20,7 @@ This file appears to contain breast cancer diagnostic data. It includes 569 rows
 
 The 32 features are:
   - Serial Number (The number of patients)
-  - Continious variables: Mean of many features (Radius, Texture, Perimeter, Area, Smoothness, Compactness,...)
+  - 30 Continious variables: Mean of many features (Radius, Texture, Perimeter, Area, Smoothness, Compactness,...)
   - Categorical variable: Output (Benign/Malignant)
 
 Dataset Overview
